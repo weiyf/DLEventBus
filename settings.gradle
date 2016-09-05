@@ -1,1 +1,1 @@
-include ':dleventbus', ':app'
+include ':dleventbus', ':sample'
