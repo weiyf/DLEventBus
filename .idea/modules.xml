@@ -4,8 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DLEventBus.iml" filepath="$PROJECT_DIR$/DLEventBus.iml" />
       <module fileurl="file://$PROJECT_DIR$/dleventbus/dleventbus.iml" filepath="$PROJECT_DIR$/dleventbus/dleventbus.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dleventbus/dleventbuslib.iml" filepath="$PROJECT_DIR$/dleventbus/dleventbuslib.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sample/app.iml" filepath="$PROJECT_DIR$/sample/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
     </modules>
   </component>
 </project>
